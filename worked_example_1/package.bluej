@@ -1,0 +1,24 @@
+#BlueJ package file
+objectbench.height=100
+objectbench.width=353
+package.editor.height=400
+package.editor.width=560
+package.editor.x=601
+package.editor.y=221
+package.numDependencies=0
+package.numTargets=2
+package.showExtends=true
+package.showUses=true
+project.charset=windows-1252
+target1.height=62
+target1.name=__MACOSX
+target1.type=PackageTarget
+target1.width=90
+target1.x=10
+target1.y=90
+target2.height=62
+target2.name=worked_example_1
+target2.type=PackageTarget
+target2.width=140
+target2.x=100
+target2.y=10
